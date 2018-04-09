@@ -5,7 +5,7 @@
 
 <h2><a id="homeList">运行效果</a></h2>
 <div>
-[![Watch the video](https://github.com/DoubleYao/ChangFontSlider/blob/master/C5E3A2E0-DE2D-49AA-94BE-BD84C96D3FC4.png)](https://github.com/DoubleYao/ChangFontSlider/blob/master/修改字体.mov)
+<img src="https://github.com/DoubleYao/ChangFontSlider/blob/master/C5E3A2E0-DE2D-49AA-94BE-BD84C96D3FC4.png" width="31%">|
 
 </div>
 
