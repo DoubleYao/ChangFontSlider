@@ -3,9 +3,10 @@
 
 <li><a href="#homeList">运行效果</a></li>
 
-<h2><a id="homeList">运行</a></h2>
+<h2><a id="homeList">运行效果</a></h2>
 <div>
-<video src="https://github.com/DoubleYao/ChangFontSlider/blob/master/修改字体.mov" width="31%">|
+[![Watch the video](https://github.com/DoubleYao/ChangFontSlider/blob/master/C5E3A2E0-DE2D-49AA-94BE-BD84C96D3FC4.png)](https://github.com/DoubleYao/ChangFontSlider/blob/master/修改字体.mov)
+
 </div>
 
 
